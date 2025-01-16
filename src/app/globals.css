@@ -19,3 +19,12 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* globals.css */  
+html, body {  
+  background-color: white; /* 設為白色背景 */  
+  color: black;           /* 確保文字顏色是黑色，避免文字也不可見 */  
+  margin: 0;  
+  padding: 0;  
+  min-height: 100vh;  
+} 
