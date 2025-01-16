@@ -16,7 +16,6 @@
       "張豐毅": "東北的牛馬",
       "羅文婕": "研發仙子",
       "徐菀翎": "蹲著飆高音",
-      "張家維": "研發內建GPT",
       "徐筱婷": "兵馬俑將領",
       "何明展": "搖滾展哥",
       "周庭儀": "靜音模式的妹子"
@@ -24,7 +23,7 @@
   
     const initialParticipants = Object.keys(nameMapping);
     const prizesConfig = [  
-      { name: "百萬富翁機會", startOrder: 1, count: 7 },  
+      { name: "百萬富翁機會", startOrder: 1, count: 5 },  
       { name: "耳掛式咖啡", startOrder: 2, count: 1 },  
       { name: "行充寶貝", startOrder: 3, count: 2 },  
       { name: "肩頸按摩儀", startOrder: 4, count: 1 },  
